@@ -93,7 +93,6 @@ The program uses a YAML configuration file to define the endpoints. An example i
 
 **Sample YAML Configuration**
 
-.. code-block:: yaml
 
 -   name: Fetch Homepage
     url: https://fetch.com/
